@@ -1,0 +1,301 @@
+UserID,Name,Surname,Gender,BirthDate,City,Country,RegistrationDate,LastLoginDaysAgo,PremiumUser,FriendsCount,CoursesCompleted,AverageScore,ActiveHoursPerWeek,AccountStatus,MainInterest
+10000,Ashley,Rodriguez,Other,1990-12-10,Tel Aviv,Israel,2020-04-30,31,True,305,4,62.0,21.3,Active,Data Analyst
+10001,Roy,Griffith,Male,1977-02-21,Berlin,USA,2023-06-30,27,True,178,11,90.2,28.5,Deleted,Design
+10002,Belinda,Collins,Female,2000-10-25,,Germany,2022-06-18,36,False,115,10,63.1,26.6,Active,Data Science
+10003,Jamie,Roberts,Female,1999-08-20,Berlin,Israel,2025-04-10,25,False,196,7,73.9,19.0,Active,Design
+10004,Lisa,Banks,Other,2005-04-07,Jerusalem,Israel,2025-04-08,43,False,311,8,77.7,26.0,Active,Marketing
+10005,Madison,Snow,Male,1996-09-19,Los Angeles,USA,2024-04-27,28,False,488,15,104.9,12.9,Active,Data Science
+10006,Desiree,Reed,Male,1995-03-10,,India,2021-11-15,22,False,262,3,72.5,16.4,Active,Marketing
+10007,Ethan,Solomon,Female,1997-12-26,Tel Aviv,USA,2022-04-07,26,False,99,5,71.2,6.8,Active,Marketing
+10008,Abigail,Harvey,Female,1977-04-05,Haifa,Germany,2023-08-13,20,False,361,11,75.3,18.5,Active,Data Science
+10009,Mark,Franklin,Female,1982-08-28,New York,Germany,2024-01-12,54,False,267,9,73.9,17.3,Active,Data Analyst
+10010,John,Patel,Other,2003-10-01,Mumbai,Israel,2023-01-20,35,True,197,15,71.1,16.8,Active,Data Analyst
+10011,Stephanie,Smith,Male,1996-05-06,Tel Aviv,India,2022-08-25,53,False,234,13,78.0,19.0,Active,Design
+10012,Wendy,Moore,Male,1980-04-04,Berlin,Germany,2021-03-21,14,False,462,8,80.8,22.0,Active,Design
+10013,Bradley,Rhodes,Other,1980-02-05,New York,India,2023-03-19,20,False,30,0,83.3,9.3,Active,Data Science
+10014,Michelle,Steele,Female,1989-08-10,Berlin,Israel,2021-04-13,34,False,331,12,96.7,12.8,Active,Marketing
+10015,Carrie,Davis,Female,1988-02-04,Tel Aviv,Germany,2021-02-03,25,True,277,9,88.0,4.0,Deleted,Marketing
+10016,Patrick,Walsh,Male,2004-09-25,,Germany,2021-03-24,2,False,243,12,93.9,12.6,Active,Data Science
+10017,Justin,Wells,Male,1998-04-02,Munich,India,2022-07-05,1,False,288,10,77.1,4.3,Suspended,Cybersecurity
+10018,Emily,Ray,Other,1993-05-17,Jerusalem,India,2024-01-12,48,False,314,2,66.7,0.8,Suspended,Design
+10019,Stephen,Ross,Female,1980-10-23,Haifa,Germany,2022-04-25,44,False,353,12,78.2,19.6,Active,Data Analyst
+10020,Gina,Robinson,Male,1997-08-30,Berlin,India,2021-10-30,31,False,237,10,65.2,13.9,Active,Cybersecurity
+10021,Dorothy,Kelly,Female,1988-09-21,Tel Aviv,Israel,2024-12-16,29,False,298,5,68.0,14.4,Active,Cybersecurity
+10022,Dean,Novak,Male,1998-02-22,Delhi,Germany,2021-10-23,10,True,337,1,79.4,14.9,Suspended,Design
+10023,Katrina,Lopez,Other,1982-02-15,Berlin,Germany,2020-05-10,57,False,128,6,79.7,10.9,Deleted,Data Analyst
+10024,Toni,Atkins,Female,1989-02-12,,India,2024-08-04,57,True,137,6,48.7,25.3,Deleted,Cybersecurity
+10025,Tara,Schmidt,Female,1988-05-26,Berlin,USA,2025-01-09,2,False,53,10,76.8,21.1,Deleted,Data Analyst
+10026,Christina,Jones,Female,1980-10-14,,USA,2022-10-06,28,False,440,10,85.7,10.2,Active,Data Science
+10027,Bradley,Shepherd,Female,1982-03-11,Mumbai,India,2021-09-12,48,False,404,12,76.9,22.9,Active,Cybersecurity
+10028,Adam,Smith,Other,1998-12-10,Mumbai,India,2023-03-27,15,False,266,11,60.6,24.5,Suspended,Data Analyst
+10029,Dennis,Hood,Female,1998-03-29,Jerusalem,Germany,2025-03-14,2,False,436,14,86.2,9.7,Active,Design
+10030,Shelley,Morgan,Female,2003-04-25,Munich,Germany,2021-12-18,30,True,433,3,98.9,12.6,Active,Cybersecurity
+10031,Kevin,Sellers,Male,2002-09-20,Berlin,Israel,2021-05-11,37,False,149,2,58.5,5.9,Active,Marketing
+10032,Michael,Acosta,Other,1986-08-03,Delhi,Germany,2021-09-24,10,False,382,3,73.8,28.2,Active,Cybersecurity
+10033,Rachael,Howard,Female,1990-09-11,New York,Israel,2022-12-30,4,True,194,11,109.4,21.6,Active,Cybersecurity
+10034,Leonard,Garrett,Other,2002-10-20,,Israel,2020-05-26,15,True,219,6,65.7,19.8,Active,Cybersecurity
+10035,Ana,Hatfield,Female,1998-07-23,Tel Aviv,Israel,2023-03-23,44,False,397,0,77.1,25.3,Active,Cybersecurity
+10036,Ryan,Jackson,Male,1978-10-05,Jerusalem,Germany,2024-05-11,41,True,246,5,102.0,5.7,Active,Design
+10037,Calvin,Harris,Female,2000-01-02,New York,India,2021-12-02,45,False,246,5,83.1,8.6,Suspended,Data Science
+10038,Brenda,Roberts,Male,2005-09-11,Berlin,USA,2024-02-16,41,False,231,10,86.1,6.7,Active,Design
+10039,Megan,Hoover,Female,2001-10-20,Tel Aviv,USA,2020-10-14,60,False,391,13,78.4,13.7,Active,Marketing
+10040,Eric,Wright,Other,1981-01-26,Jerusalem,USA,2024-05-24,6,False,359,9,77.6,2.2,Active,Data Analyst
+10041,Jeffrey,Sanchez,Female,2001-08-12,New York,Israel,2025-02-19,34,False,464,13,67.9,19.2,Active,Data Analyst
+10042,Robert,Mendez,Male,1993-09-28,,Germany,2021-06-18,47,True,433,8,80.5,9.7,Suspended,Design
+10043,Benjamin,Richards,Other,1996-09-07,Berlin,USA,2020-06-19,41,False,218,3,51.9,17.1,Suspended,Cybersecurity
+10044,Tyler,Barnes,Male,2003-04-05,Los Angeles,Germany,2025-01-23,49,False,12,14,79.5,27.6,Active,Design
+10045,Lisa,Arnold,Male,1999-06-16,Tel Aviv,USA,2022-10-29,10,False,489,5,71.6,23.3,Suspended,Data Analyst
+10046,Diane,Johnson,Male,1976-02-08,Munich,Israel,2024-08-24,34,False,126,11,86.8,11.4,Active,Cybersecurity
+10047,Amanda,Smith,Male,1999-02-20,,USA,2021-11-01,13,True,139,3,75.4,4.0,Active,Cybersecurity
+10048,Melissa,Johnson,Female,1997-08-11,Mumbai,Germany,2024-10-03,38,True,396,11,64.9,26.2,Active,Design
+10049,Edward,Brown,Other,1992-02-11,Munich,Israel,2021-03-19,23,False,88,11,74.1,1.0,Active,Design
+10050,Ashley,Townsend,Female,1998-03-11,Mumbai,Germany,2021-08-07,39,False,347,12,74.8,19.8,Active,Marketing
+10051,Neil,Werner,Male,2001-05-28,Berlin,India,2024-07-21,52,False,124,8,72.0,4.2,Active,Design
+10052,Carolyn,Martinez,Female,1980-08-29,Jerusalem,USA,2022-12-19,49,False,216,10,79.0,2.9,Deleted,Data Science
+10053,Daniel,Cruz,Other,1980-10-04,Jerusalem,India,2025-03-25,10,False,62,6,98.9,2.1,Active,Data Science
+10054,Kimberly,Smith,Other,1976-12-29,Munich,Israel,2022-11-16,45,False,208,0,84.0,5.3,Active,Marketing
+10055,Colin,Hamilton,Female,1998-10-25,Munich,India,2020-09-22,50,False,305,13,73.6,25.0,Active,Marketing
+10056,Garrett,Stanley,Female,1987-09-17,Munich,USA,2023-08-23,3,False,264,5,88.2,23.0,Active,Marketing
+10057,Lindsey,Weber,Female,1996-01-16,Haifa,Israel,2021-09-27,33,True,407,7,81.2,5.8,Active,Cybersecurity
+10058,Stacey,Valenzuela,Male,1997-07-30,Munich,Germany,2021-07-14,29,False,321,3,84.3,26.8,Active,Design
+10059,Ryan,Arnold,Other,1992-09-19,Los Angeles,USA,2023-07-07,15,False,356,10,45.8,6.7,Active,Design
+10060,Robert,Brown,Other,1974-06-04,Delhi,Israel,2020-05-25,9,True,227,14,76.1,2.4,Active,Cybersecurity
+10061,John,Bennett,Female,1994-11-19,Haifa,USA,2024-05-26,45,True,175,13,92.9,27.4,Active,Data Science
+10062,Joshua,Stevens,Other,1991-06-02,Delhi,India,2024-01-02,42,True,421,0,61.9,1.2,Active,Marketing
+10063,Christina,Rogers,Male,2005-07-26,New York,Germany,2023-10-14,29,False,433,15,63.9,18.2,Active,Cybersecurity
+10064,Gregory,Johnson,Male,1982-01-23,Tel Aviv,Germany,2025-02-26,41,False,347,8,70.3,18.3,Active,Data Analyst
+10065,David,Burton,Female,2001-03-08,Munich,Israel,2020-06-16,4,False,182,13,43.4,16.0,Active,Marketing
+10066,Stephen,Burns,Male,2004-11-22,Haifa,India,2020-07-30,49,False,226,11,88.5,21.2,Active,Design
+10067,Frederick,Fletcher,Male,1997-10-27,Mumbai,USA,2025-04-12,49,True,27,10,67.0,13.8,Active,Data Analyst
+10068,Deborah,Diaz,Male,1998-08-17,,USA,2021-09-20,41,False,158,8,85.7,14.5,Active,Design
+10069,Lori,Jones,Female,2004-12-20,New York,India,2022-09-01,15,False,57,6,83.6,14.8,Active,Data Analyst
+10070,Kimberly,Baker,Female,1993-08-28,Haifa,Israel,2023-10-09,31,True,205,13,75.3,22.8,Active,Data Science
+10071,Timothy,Thompson,Other,2003-12-20,New York,India,2021-12-14,6,True,451,1,100.6,16.0,Active,Data Science
+10072,Michael,Murray,Other,2005-10-30,Delhi,India,2024-08-31,3,False,417,2,96.1,23.8,Active,Marketing
+10073,Ryan,Hernandez,Male,1985-06-20,Haifa,India,2024-06-08,11,False,40,6,93.6,2.5,Active,Marketing
+10074,Adam,Miller,Other,1985-01-17,Tel Aviv,Israel,2023-07-23,41,True,149,1,65.2,16.9,Active,Cybersecurity
+10075,Jennifer,Warren,Male,2003-08-10,,Israel,2022-05-04,49,False,317,4,77.6,5.9,Active,Marketing
+10076,Martin,Taylor,Male,1991-01-05,Berlin,USA,2023-03-23,43,False,119,4,66.5,0.9,Active,Cybersecurity
+10077,Luis,Garcia,Female,2004-06-21,Jerusalem,Germany,2024-11-30,10,False,247,14,78.9,24.3,Suspended,Data Science
+10078,Christopher,Martinez,Other,2005-08-06,Berlin,India,2022-03-24,8,False,103,3,86.9,19.8,Active,Marketing
+10079,Shane,Thornton,Female,1994-02-19,Mumbai,USA,2023-05-19,39,True,179,2,74.5,28.7,Active,Cybersecurity
+10080,Brandi,Roman,Other,2006-04-28,Jerusalem,India,2025-03-16,15,False,85,9,83.0,2.9,Active,Data Science
+10081,Peter,Pacheco,Male,2005-10-22,,India,2025-04-12,4,False,82,14,72.9,6.7,Active,Marketing
+10082,Molly,Johnston,Male,1995-08-18,New York,USA,2020-08-17,29,False,7,14,66.4,21.2,Active,Cybersecurity
+10083,Emily,Reid,Male,1980-04-16,New York,Germany,2025-03-05,2,False,136,5,88.3,20.1,Active,Marketing
+10084,John,Molina,Female,2001-07-17,Delhi,USA,2020-05-22,7,False,311,1,85.3,20.9,Active,Marketing
+10085,Alicia,Patterson,Male,2001-08-11,Munich,Germany,2021-07-26,51,False,7,4,78.9,27.8,Active,Design
+10086,Renee,Hicks,Male,1990-04-18,Tel Aviv,Israel,2020-06-06,6,True,97,0,78.0,22.8,Active,Cybersecurity
+10087,Abigail,Marquez,Female,1982-07-30,Haifa,Israel,2021-06-10,4,True,404,7,58.9,3.0,Active,Data Analyst
+10088,Carrie,Walters,Female,1987-02-05,,USA,2022-01-22,52,True,232,7,77.2,21.7,Active,Cybersecurity
+10089,Bryan,Lynch,Female,1987-12-03,,Israel,2022-08-19,44,True,163,0,85.7,0.9,Active,Data Analyst
+10090,Tracy,Lucas,Female,1990-01-31,Jerusalem,USA,2022-05-25,49,False,458,12,72.9,19.3,Deleted,Data Science
+10091,Steven,Nichols,Male,1991-08-10,Munich,USA,2020-12-17,55,True,169,11,74.0,28.1,Deleted,Design
+10092,Richard,Lewis,Other,1977-12-16,,Germany,2024-06-25,54,True,329,0,96.6,26.9,Suspended,Design
+10093,Robert,Torres,Female,1988-09-02,Jerusalem,USA,2023-11-01,3,False,141,2,61.8,14.7,Active,Marketing
+10094,Brenda,Vazquez,Male,1994-11-06,Tel Aviv,Israel,2020-10-29,6,False,194,8,68.2,8.4,Active,Cybersecurity
+10095,Amanda,Barnes,Other,1991-11-27,Tel Aviv,India,2024-03-04,30,False,52,7,65.3,24.8,Deleted,Marketing
+10096,Tracy,Garrison,Other,1999-01-25,Mumbai,India,2023-06-19,53,False,5,3,70.4,24.0,Active,Data Science
+10097,Gabriel,Brooks,Male,1977-06-22,Jerusalem,Israel,2020-05-07,28,False,164,11,97.2,6.8,Active,Data Science
+10098,Scott,Caldwell,Male,1982-09-17,,India,2022-02-18,4,True,139,5,86.1,2.4,Active,Data Science
+10099,Tanya,Wilson,Female,1976-04-30,Mumbai,Germany,2021-10-28,38,False,238,7,93.9,18.4,Active,Design
+10100,Robert,Evans,Female,1978-01-11,Berlin,Israel,2025-03-12,38,False,355,14,80.5,12.2,Active,Cybersecurity
+10101,Austin,Rosales,Female,1998-12-19,Jerusalem,USA,2022-01-21,37,False,491,13,65.0,17.3,Suspended,Design
+10102,Aaron,Thompson,Male,1976-07-16,Jerusalem,USA,2023-04-14,13,False,149,0,81.2,2.6,Deleted,Data Science
+10103,Amanda,Garrett,Other,1983-07-09,,USA,2020-07-25,47,False,165,3,71.3,13.4,Suspended,Cybersecurity
+10104,Brent,Johnson,Other,1982-10-02,,Germany,2022-11-01,48,False,137,1,58.2,0.5,Active,Cybersecurity
+10105,Christopher,Lynch,Male,1983-10-07,Delhi,Israel,2021-08-20,55,False,212,9,92.6,0.8,Active,Data Analyst
+10106,Daniel,Hayes,Male,1998-10-13,Haifa,Germany,2024-09-23,49,False,17,10,78.9,20.5,Active,Design
+10107,Shawn,Lam,Female,1998-02-23,Los Angeles,USA,2024-06-25,6,False,204,1,90.2,13.0,Active,Cybersecurity
+10108,Victoria,Petersen,Female,1985-11-29,Berlin,India,2023-08-03,12,False,183,2,84.3,6.2,Deleted,Cybersecurity
+10109,Todd,Mejia,Female,2000-01-25,Los Angeles,India,2021-01-29,7,False,237,10,88.8,20.1,Active,Cybersecurity
+10110,Stephen,Morgan,Female,1984-01-24,Delhi,Israel,2021-05-22,60,False,30,12,82.3,22.6,Active,Cybersecurity
+10111,Samuel,Caldwell,Male,1992-07-10,Delhi,USA,2024-05-03,40,False,315,14,78.2,16.5,Active,Cybersecurity
+10112,Walter,Moore,Male,1986-11-06,Tel Aviv,India,2020-12-23,36,False,316,7,95.8,16.4,Active,Cybersecurity
+10113,Sergio,Burns,Other,2002-02-22,Tel Aviv,Israel,2022-11-21,58,True,341,9,45.6,3.3,Active,Marketing
+10114,Jessica,Price,Other,1978-12-05,Delhi,Germany,2021-11-17,55,False,82,14,73.5,1.4,Active,Cybersecurity
+10115,Rachael,Harrison,Male,1986-04-02,,USA,2024-07-15,45,False,158,14,79.4,17.0,Active,Data Analyst
+10116,Heidi,Hill,Female,2000-07-15,Munich,India,2024-05-12,42,True,131,2,93.3,16.0,Active,Data Analyst
+10117,Rodney,Lewis,Female,2004-08-09,Tel Aviv,India,2022-10-22,58,True,202,4,85.8,19.9,Active,Data Science
+10118,Debra,Meyer,Male,1993-08-09,Haifa,Germany,2020-10-14,23,False,455,8,61.1,6.4,Active,Data Science
+10119,Regina,Valdez,Male,1996-01-14,Mumbai,Israel,2024-05-16,10,True,334,1,89.3,27.9,Active,Data Analyst
+10120,Eric,Hart,Female,2001-04-15,Jerusalem,India,2022-10-27,33,False,6,1,77.9,27.7,Active,Data Analyst
+10121,John,Benton,Female,2003-02-17,Jerusalem,Germany,2020-09-19,17,True,391,0,83.9,28.2,Active,Design
+10122,Christine,Hawkins,Female,2005-04-13,,Israel,2023-05-20,20,False,431,1,72.9,25.5,Active,Design
+10123,Gloria,Hernandez,Other,2002-01-05,Mumbai,Germany,2020-11-22,12,False,148,11,87.2,15.3,Active,Cybersecurity
+10124,Dawn,May,Male,1978-09-06,Jerusalem,Israel,2020-12-25,32,True,156,14,71.1,6.0,Active,Design
+10125,Brianna,Stewart,Female,1998-03-04,Mumbai,Israel,2023-04-27,34,False,13,15,60.7,5.1,Active,Marketing
+10126,Maria,Mays,Female,1976-10-02,Mumbai,Germany,2024-10-20,13,True,355,6,90.1,9.7,Deleted,Design
+10127,Timothy,Anderson,Other,2005-10-07,Jerusalem,India,2023-12-16,27,True,284,2,96.1,4.3,Suspended,Data Science
+10128,Lindsey,Ellis,Male,1974-10-18,Los Angeles,Israel,2020-08-24,12,True,304,12,66.7,29.1,Active,Marketing
+10129,Suzanne,Nunez,Other,1999-12-26,Mumbai,Israel,2021-04-07,34,False,228,4,79.2,17.7,Deleted,Marketing
+10130,Ryan,Montes,Other,2000-07-05,Delhi,USA,2025-01-20,28,False,266,4,70.4,7.7,Active,Cybersecurity
+10131,Michele,Boyd,Female,1989-08-22,Berlin,USA,2021-10-08,52,False,44,9,63.8,13.2,Active,Data Analyst
+10132,Jennifer,James,Other,1996-04-28,Berlin,Israel,2021-05-30,29,False,192,13,82.5,14.9,Active,Data Analyst
+10133,Pamela,Parsons,Female,1978-05-08,Mumbai,USA,2020-09-10,37,True,175,2,67.3,5.5,Active,Cybersecurity
+10134,Brandon,Buchanan,Other,2005-06-15,,India,2022-04-05,34,False,387,15,89.3,11.5,Active,Design
+10135,Robin,Mcintyre,Female,1988-01-17,Delhi,Israel,2023-11-20,47,True,304,3,89.4,2.9,Active,Cybersecurity
+10136,Katie,Griffith,Male,2006-11-27,Munich,Israel,2020-09-29,19,False,196,14,79.0,15.4,Active,Data Analyst
+10137,Suzanne,Anderson,Male,1995-03-16,Haifa,Germany,2020-12-20,42,False,419,12,77.5,2.0,Active,Data Science
+10138,Tina,Esparza,Female,1995-05-18,Tel Aviv,Israel,2022-11-11,28,False,499,0,82.2,26.2,Active,Data Science
+10139,Justin,Arias,Other,1975-02-07,Tel Aviv,India,2020-09-16,49,False,141,5,84.5,14.0,Suspended,Data Science
+10140,Elizabeth,Graham,Female,1979-11-19,Munich,Germany,2023-11-04,0,False,184,13,70.5,24.4,Active,Design
+10141,Donald,Hopkins,Female,1994-08-14,Mumbai,Germany,2023-06-17,22,False,360,5,58.6,8.1,Active,Data Science
+10142,Brooke,Flowers,Male,1978-12-13,Haifa,Germany,2023-02-26,0,False,482,15,81.3,3.1,Active,Marketing
+10143,Samantha,Rangel,Female,1988-03-14,Berlin,India,2024-09-12,16,False,58,7,95.9,2.4,Active,Cybersecurity
+10144,James,Sharp,Other,1982-07-24,Munich,Germany,2022-11-03,33,False,17,8,73.3,18.8,Active,Cybersecurity
+10145,Michael,Davis,Other,1990-07-03,Jerusalem,India,2023-08-10,16,False,446,14,66.3,9.0,Active,Marketing
+10146,Christopher,Jones,Female,1990-01-08,Munich,Israel,2022-06-25,6,False,195,8,79.5,9.2,Active,Marketing
+10147,James,Diaz,Other,1976-07-29,Delhi,Israel,2023-08-15,39,True,355,6,69.3,18.6,Active,Design
+10148,Jared,Bryant,Female,1980-03-01,New York,India,2020-06-14,26,False,231,8,81.8,28.6,Active,Data Analyst
+10149,Cody,Collins,Female,1976-12-25,Munich,USA,2025-01-18,26,False,275,11,78.9,14.4,Active,Data Science
+10150,Yvonne,Brady,Other,1985-12-23,Delhi,Israel,2024-12-05,19,False,255,7,87.0,15.5,Active,Cybersecurity
+10151,Paige,Gallagher,Male,1996-05-20,Munich,India,2020-04-28,27,False,97,11,72.6,22.5,Active,Cybersecurity
+10152,Steven,Ross,Other,1996-08-29,New York,Germany,2024-04-13,4,True,82,2,91.5,14.7,Active,Design
+10153,Julia,Wolfe,Female,1983-06-26,Delhi,Germany,2022-04-02,19,False,82,4,53.5,12.6,Active,Data Analyst
+10154,Heather,Lee,Male,2000-06-11,Jerusalem,Israel,2025-01-19,10,False,369,7,75.6,14.5,Active,Data Analyst
+10155,Alexandra,Bean,Female,1979-07-29,Delhi,Israel,2020-11-30,55,True,382,15,75.6,27.2,Active,Data Analyst
+10156,Rodney,Allen,Male,1996-01-20,Munich,Germany,2023-07-10,49,False,77,0,81.6,20.2,Active,Cybersecurity
+10157,Elizabeth,Moore,Male,2003-10-24,New York,India,2024-12-01,22,False,241,13,74.2,21.4,Active,Cybersecurity
+10158,Angela,Reyes,Female,2004-06-20,Mumbai,Germany,2023-05-05,9,False,72,6,97.0,17.9,Active,Marketing
+10159,Joseph,Roy,Other,1976-04-07,Jerusalem,Germany,2022-08-08,55,False,303,13,80.7,14.5,Active,Data Science
+10160,Michael,George,Male,1989-05-08,New York,USA,2024-12-18,7,True,461,5,77.2,9.1,Active,Design
+10161,Courtney,Parks,Male,1998-03-30,Los Angeles,USA,2020-08-14,4,False,167,2,79.1,15.8,Active,Data Analyst
+10162,Courtney,Cardenas,Female,1999-05-16,Jerusalem,Germany,2020-09-27,24,False,224,13,69.0,28.0,Active,Data Science
+10163,Jason,Cruz,Male,2002-04-29,,India,2023-02-07,40,False,112,7,76.7,12.9,Active,Data Analyst
+10164,Chelsea,Chung,Male,1991-12-31,Berlin,Israel,2025-04-13,17,False,448,12,82.1,15.4,Active,Cybersecurity
+10165,Nancy,Archer,Male,2004-10-28,,Germany,2024-04-15,11,True,404,2,81.4,18.2,Active,Design
+10166,Monica,Nichols,Other,1975-09-25,Delhi,USA,2022-12-17,15,False,182,7,74.6,20.2,Suspended,Data Analyst
+10167,Denise,Curry,Female,1996-10-01,Tel Aviv,Germany,2023-01-22,59,False,486,6,94.3,0.6,Active,Data Science
+10168,Chad,Nash,Female,1976-02-23,Los Angeles,Israel,2021-10-07,56,False,457,12,65.1,12.0,Active,Design
+10169,Rodney,Vargas,Male,1975-06-17,Haifa,Germany,2021-08-31,2,False,57,14,87.8,6.9,Active,Cybersecurity
+10170,Christopher,Anderson,Female,1989-03-18,Munich,Israel,2023-04-02,21,False,43,7,72.1,10.2,Active,Data Analyst
+10171,Brian,Douglas,Female,2004-08-01,Haifa,Germany,2024-07-12,53,False,285,1,78.3,28.8,Active,Cybersecurity
+10172,Jonathan,Bryant,Other,2004-01-29,Jerusalem,Israel,2021-02-12,16,False,470,14,77.5,27.7,Active,Design
+10173,Stephen,Dickerson,Female,1992-05-15,Haifa,Germany,2023-05-23,49,False,17,5,97.4,21.9,Active,Design
+10174,Katherine,Clark,Female,1988-04-15,Delhi,Israel,2022-03-16,27,False,496,5,74.9,26.9,Active,Cybersecurity
+10175,Courtney,Smith,Other,1993-01-10,,USA,2023-01-03,25,False,385,3,98.4,29.4,Suspended,Marketing
+10176,Justin,White,Female,1992-07-15,,Israel,2020-10-06,33,False,336,15,87.7,26.6,Active,Data Analyst
+10177,Heather,Jackson,Other,1984-11-20,Delhi,Germany,2022-12-01,4,True,227,6,66.4,26.5,Active,Marketing
+10178,William,Cruz,Female,1999-08-06,Mumbai,USA,2020-05-19,46,False,101,5,85.3,21.0,Active,Cybersecurity
+10179,William,Clark,Female,1994-10-19,Haifa,Germany,2024-09-12,45,True,428,8,85.5,9.3,Active,Data Science
+10180,Joseph,Cook,Female,1993-12-15,Haifa,Israel,2022-09-29,16,False,492,3,78.2,25.9,Active,Data Science
+10181,Scott,Chapman,Other,1997-07-04,Mumbai,Germany,2021-04-13,46,True,426,5,46.6,15.0,Active,Data Science
+10182,Matthew,Moore,Other,1986-08-04,Munich,India,2023-05-28,60,True,137,9,86.7,13.1,Active,Cybersecurity
+10183,Jessica,Washington,Other,1984-04-05,Mumbai,India,2020-10-09,50,True,323,11,98.7,9.8,Active,Data Science
+10184,Timothy,Kelly,Male,1994-06-21,Mumbai,India,2021-06-12,46,False,293,3,78.7,18.1,Deleted,Data Analyst
+10185,Sean,Smith,Other,1978-12-06,Los Angeles,Germany,2025-03-14,43,False,206,5,90.2,3.1,Active,Design
+10186,Thomas,Craig,Male,1990-02-15,Jerusalem,Israel,2020-07-30,21,True,241,1,67.2,6.3,Active,Marketing
+10187,Timothy,Mason,Female,1998-12-17,New York,USA,2022-08-22,52,False,47,6,62.8,14.8,Suspended,Data Science
+10188,Hannah,Parsons,Other,1985-08-22,Mumbai,Germany,2022-04-03,45,False,489,4,40.0,4.5,Active,Design
+10189,Jennifer,Mcdowell,Male,1986-06-18,Delhi,USA,2023-05-01,25,True,92,4,99.1,29.6,Active,Cybersecurity
+10190,Laurie,Williams,Other,1976-09-11,Tel Aviv,Germany,2024-11-16,15,False,322,8,64.4,0.8,Suspended,Marketing
+10191,Richard,Klein,Male,2004-06-06,Berlin,Germany,2020-06-22,41,False,86,7,57.5,14.7,Active,Marketing
+10192,Laura,Stevens,Other,1983-03-08,Mumbai,Germany,2022-11-11,0,False,413,12,77.1,7.2,Active,Marketing
+10193,Tami,Sawyer,Other,1998-04-26,New York,India,2024-12-13,57,False,448,13,53.2,6.3,Deleted,Data Science
+10194,Victoria,Wilson,Other,2004-04-06,Jerusalem,Israel,2023-07-19,47,False,210,15,84.9,20.8,Deleted,Design
+10195,Jennifer,Roberson,Other,1984-04-12,Tel Aviv,India,2024-12-14,18,False,230,10,74.1,24.4,Active,Data Science
+10196,Cameron,Jordan,Female,1996-07-10,Tel Aviv,USA,2023-08-24,55,True,135,4,65.8,23.4,Active,Cybersecurity
+10197,Melanie,Davis,Male,1986-03-05,,USA,2024-02-17,14,False,436,15,97.4,4.8,Active,Data Science
+10198,Mary,Murray,Male,1998-03-28,Los Angeles,India,2023-01-08,54,True,171,11,73.6,24.0,Active,Cybersecurity
+10199,Allen,Wiley,Female,1993-05-01,New York,Germany,2020-05-21,19,False,94,11,83.6,0.7,Suspended,Design
+10200,Mark,Jones,Female,1977-10-26,,Germany,2021-05-30,15,False,295,1,74.4,5.0,Suspended,Marketing
+10201,Marc,Gray,Male,2006-05-18,Tel Aviv,USA,2022-10-26,1,False,187,0,80.0,13.7,Active,Cybersecurity
+10202,Joy,Miller,Other,1982-12-03,Tel Aviv,India,2021-12-10,13,False,391,7,67.6,29.9,Active,Cybersecurity
+10203,Chelsey,Smith,Female,1995-08-24,,Israel,2023-04-25,53,False,385,3,69.8,16.2,Active,Marketing
+10204,Justin,Serrano,Male,1987-02-19,Mumbai,Israel,2023-04-09,59,True,154,1,68.5,11.0,Active,Marketing
+10205,Jacob,Pierce,Male,1984-12-24,Tel Aviv,USA,2024-07-29,11,False,446,7,71.7,27.3,Suspended,Design
+10206,Gary,Duncan,Other,1990-02-10,Berlin,India,2022-09-26,12,True,53,12,77.5,6.4,Active,Cybersecurity
+10207,Cody,Lam,Other,1988-11-17,Jerusalem,USA,2023-11-05,0,False,294,15,78.3,14.1,Active,Design
+10208,Krystal,Miller,Male,1988-02-06,Jerusalem,USA,2021-02-19,7,False,74,9,86.7,16.3,Active,Design
+10209,Shari,Blackburn,Female,1979-12-29,New York,Israel,2024-02-26,16,False,283,13,73.0,19.1,Active,Design
+10210,Jeffrey,Mullins,Male,1983-08-30,Mumbai,Israel,2021-07-14,16,False,471,0,99.7,27.5,Active,Marketing
+10211,Julie,Rosales,Other,1978-04-08,Los Angeles,Germany,2022-03-28,30,False,218,3,74.7,27.5,Active,Marketing
+10212,Stephanie,Ochoa,Female,1979-06-09,Delhi,Germany,2023-07-29,7,False,461,10,85.5,8.6,Active,Design
+10213,James,Long,Male,2005-12-07,Berlin,Israel,2024-11-16,57,False,150,7,87.7,28.0,Active,Data Analyst
+10214,Ashley,Johnson,Female,1993-03-21,Los Angeles,USA,2023-02-16,22,False,157,14,86.7,20.0,Active,Data Analyst
+10215,Scott,Bright,Other,1995-05-01,Haifa,Israel,2022-11-16,60,False,382,2,65.4,7.3,Active,Design
+10216,Theresa,Chen,Female,1980-01-27,Berlin,Israel,2022-06-06,55,False,302,6,84.5,13.2,Deleted,Data Science
+10217,Molly,Dawson,Male,2003-02-21,Munich,Israel,2025-04-24,51,False,40,1,57.3,28.3,Active,Cybersecurity
+10218,Allen,Dominguez,Female,1974-06-12,Haifa,India,2024-01-14,59,False,182,8,81.3,24.1,Active,Design
+10219,James,Evans,Male,1989-06-06,New York,USA,2020-07-02,5,False,331,0,98.7,19.4,Active,Data Analyst
+10220,Melanie,Sandoval,Male,2000-02-25,Berlin,Israel,2020-11-14,37,False,101,1,66.0,15.7,Active,Marketing
+10221,Audrey,Hayes,Other,2001-08-21,Tel Aviv,India,2022-04-12,42,True,88,14,74.6,12.2,Active,Data Science
+10222,Alexandra,Perez,Male,2000-04-21,Munich,India,2023-07-21,35,False,246,14,78.7,26.7,Active,Data Science
+10223,Lisa,Porter,Female,2005-11-15,Tel Aviv,Germany,2022-02-09,45,False,25,6,66.6,12.0,Active,Design
+10224,Kathryn,Mcdonald,Male,1986-08-11,Jerusalem,Israel,2021-08-31,50,True,226,6,72.9,0.9,Active,Cybersecurity
+10225,Stephanie,Turner,Male,1988-12-15,Mumbai,Israel,2020-09-28,25,False,260,6,69.5,29.3,Active,Data Science
+10226,Mark,Curry,Other,2004-04-29,Haifa,Israel,2021-01-14,43,False,297,0,77.4,28.9,Active,Data Science
+10227,Brandon,Stout,Female,1983-06-01,New York,USA,2023-05-29,20,True,374,2,78.9,26.0,Suspended,Design
+10228,Heather,George,Female,1979-09-28,Haifa,Israel,2023-06-28,6,False,20,5,95.6,25.2,Active,Data Science
+10229,Brendan,Johnson,Other,1984-12-26,Tel Aviv,India,2021-03-27,25,True,260,15,87.6,2.9,Active,Data Analyst
+10230,Annette,Stephens,Other,2004-12-22,Los Angeles,Germany,2021-11-28,26,False,271,9,77.4,9.7,Active,Data Analyst
+10231,Michele,Mccoy,Other,1980-09-28,Haifa,Israel,2020-10-26,27,False,462,8,72.0,24.7,Active,Data Analyst
+10232,Randy,Ochoa,Other,1997-07-04,Jerusalem,Germany,2020-12-23,54,False,79,2,68.1,16.6,Active,Data Science
+10233,Carolyn,Turner,Female,1996-01-27,Munich,Israel,2020-07-07,48,True,422,7,76.2,12.5,Active,Data Science
+10234,George,Young,Female,1997-02-15,Delhi,Germany,2023-10-31,26,False,418,1,76.1,6.2,Active,Cybersecurity
+10235,Eric,Brooks,Other,1978-09-13,Munich,USA,2022-04-26,37,True,366,4,76.8,3.8,Active,Cybersecurity
+10236,Catherine,Martin,Other,1976-01-09,Munich,USA,2020-11-22,50,False,338,0,71.3,28.5,Deleted,Design
+10237,Michelle,Chan,Other,1976-02-23,New York,India,2025-01-26,45,False,367,3,63.6,18.2,Active,Design
+10238,Zoe,Johnson,Male,2000-03-28,Berlin,USA,2024-01-05,54,False,475,12,55.8,28.3,Active,Design
+10239,Anthony,Cunningham,Female,1994-03-19,Jerusalem,India,2024-07-17,49,False,423,15,98.5,23.1,Active,Design
+10240,Samantha,Whitaker,Other,1980-01-28,New York,Germany,2022-07-17,3,False,462,12,71.0,2.5,Active,Marketing
+10241,William,Johnson,Female,1993-07-29,Tel Aviv,Germany,2021-04-10,46,True,183,10,85.4,26.4,Active,Data Analyst
+10242,Michael,Martin,Male,1992-07-19,Delhi,USA,2020-06-18,22,False,150,8,78.5,14.9,Active,Design
+10243,Ray,Braun,Other,2006-02-16,Jerusalem,India,2024-12-06,21,False,402,2,67.9,12.0,Deleted,Data Analyst
+10244,Becky,Parker,Other,1993-01-15,Munich,Israel,2021-03-10,0,False,448,2,54.4,8.8,Active,Design
+10245,Michael,Tate,Male,1979-06-20,Delhi,India,2021-12-29,32,False,13,6,76.4,5.8,Active,Marketing
+10246,Dustin,Johnson,Male,1976-05-18,,USA,2025-03-02,38,False,201,3,87.9,11.7,Active,Data Science
+10247,Michelle,Owens,Female,1993-11-18,New York,India,2020-12-25,53,False,242,12,80.6,12.2,Active,Data Analyst
+10248,Jasmine,Williams,Other,1984-05-14,Berlin,Germany,2023-07-15,6,True,89,11,67.8,22.5,Active,Data Science
+10249,Chelsea,Sanchez,Female,1986-04-26,Mumbai,USA,2022-07-31,27,False,325,1,70.3,17.1,Active,Data Science
+10250,Jennifer,Smith,Female,2005-08-09,Jerusalem,Germany,2020-12-15,34,False,207,11,66.4,26.1,Active,Design
+10251,Valerie,Shelton,Other,1990-01-03,Mumbai,USA,2023-02-04,36,False,142,12,79.9,12.7,Deleted,Marketing
+10252,Gregory,Gibson,Male,2000-02-22,Munich,Germany,2021-04-14,32,True,186,13,73.5,18.0,Active,Cybersecurity
+10253,Madison,Bell,Male,1986-09-27,Haifa,India,2022-11-12,3,True,64,14,86.3,21.1,Suspended,Cybersecurity
+10254,Lynn,Fisher,Female,1984-10-17,Delhi,USA,2022-04-22,38,False,150,6,74.1,5.8,Active,Design
+10255,Matthew,Frazier,Male,2003-07-28,New York,India,2022-05-14,27,False,31,4,96.2,7.3,Active,Design
+10256,Angelica,Green,Male,1983-01-10,,India,2024-02-20,7,False,46,6,89.9,29.5,Active,Marketing
+10257,Stephen,Moore,Female,1976-10-09,Los Angeles,Israel,2021-05-31,31,True,387,4,85.4,12.6,Active,Marketing
+10258,James,Williams,Female,1981-02-05,Berlin,Germany,2024-06-03,36,True,480,3,80.6,11.9,Active,Marketing
+10259,Ryan,Valdez,Female,1996-07-10,Delhi,Israel,2023-01-28,10,True,414,14,80.2,23.4,Active,Data Analyst
+10260,Elijah,Beck,Female,2007-04-27,Jerusalem,USA,2022-10-26,57,False,480,10,83.4,17.7,Active,Cybersecurity
+10261,Sarah,Allen,Female,2001-08-30,Jerusalem,India,2022-01-12,24,False,20,11,42.2,6.3,Active,Data Analyst
+10262,Jacob,Robertson,Male,1986-05-22,Tel Aviv,Israel,2024-01-01,51,True,474,2,69.0,18.3,Active,Cybersecurity
+10263,Cynthia,Montes,Other,2003-02-28,Mumbai,USA,2020-10-11,4,True,326,0,88.2,10.0,Deleted,Marketing
+10264,Ashley,Kennedy,Other,1976-09-14,Munich,USA,2024-01-06,16,True,312,13,63.7,19.2,Active,Design
+10265,Theresa,Miranda,Female,1996-04-30,Tel Aviv,Germany,2021-05-25,7,True,174,15,84.1,22.5,Active,Data Analyst
+10266,Laura,Bell,Female,1976-09-27,Jerusalem,USA,2024-01-08,8,True,86,13,83.3,10.0,Active,Design
+10267,Michael,Arnold,Other,1999-06-25,Mumbai,Israel,2022-06-24,44,False,370,8,80.1,0.2,Active,Design
+10268,Nicholas,Osborne,Female,1993-07-09,Jerusalem,Israel,2021-07-13,45,False,324,6,59.5,26.3,Suspended,Design
+10269,Brendan,Wolfe,Other,1982-09-14,,Israel,2023-06-03,42,False,136,1,97.2,19.9,Deleted,Data Science
+10270,Brett,Harper,Female,1989-05-21,Los Angeles,India,2021-07-08,17,True,462,0,61.1,29.2,Active,Cybersecurity
+10271,Larry,Phillips,Other,2000-12-12,Tel Aviv,India,2025-02-16,22,False,399,9,77.9,2.1,Active,Design
+10272,Stephanie,Brown,Female,1992-09-27,Delhi,Israel,2022-10-02,19,False,169,10,91.4,1.3,Active,Design
+10273,Brandon,Olson,Female,1997-06-24,Tel Aviv,Israel,2025-03-01,55,False,22,14,95.5,2.8,Active,Data Science
+10274,Gregory,Sharp,Female,1982-05-30,,USA,2024-08-30,38,True,42,3,84.5,20.5,Suspended,Cybersecurity
+10275,Daisy,Ward,Other,1993-11-07,Delhi,India,2025-01-09,34,False,214,13,80.4,16.6,Active,Marketing
+10276,Michael,Barber,Female,1995-07-01,Delhi,Germany,2023-10-06,50,False,354,12,81.5,23.3,Active,Design
+10277,Jacob,Ruiz,Female,1983-05-27,Berlin,Israel,2022-01-21,15,False,185,1,48.3,27.1,Active,Marketing
+10278,Stacey,Jones,Other,1993-03-12,Jerusalem,USA,2024-07-03,42,False,401,0,81.5,13.8,Active,Marketing
+10279,Brad,Carpenter,Female,1997-03-10,Berlin,India,2023-10-03,6,False,293,11,81.4,23.7,Active,Cybersecurity
+10280,Carly,Dunn,Female,1984-03-01,Los Angeles,Germany,2021-02-21,27,False,215,12,92.9,11.8,Active,Marketing
+10281,Roy,Morris,Female,1976-01-04,Los Angeles,Germany,2022-07-11,27,True,392,5,81.7,1.5,Active,Marketing
+10282,Michael,Gonzalez,Female,2003-02-04,Delhi,India,2020-09-28,56,False,291,0,72.7,16.1,Active,Cybersecurity
+10283,James,Duke,Other,1991-05-30,Los Angeles,India,2021-09-05,21,False,280,4,81.1,7.3,Active,Marketing
+10284,Francisco,Richards,Female,1988-12-17,Berlin,Israel,2023-09-01,48,False,354,6,98.0,5.8,Active,Design
+10285,Richard,Ramsey,Male,1996-09-09,Munich,USA,2024-11-27,13,True,361,9,85.1,3.3,Suspended,Design
+10286,Karen,Williams,Other,1998-11-04,Haifa,USA,2021-03-01,24,False,267,5,80.6,15.8,Active,Data Science
+10287,Taylor,Quinn,Other,1985-11-02,Delhi,USA,2021-07-19,59,False,489,13,82.5,20.8,Active,Design
+10288,Kimberly,Martin,Other,1990-03-23,Tel Aviv,Israel,2024-09-21,4,False,452,3,71.0,6.2,Active,Marketing
+10289,Natasha,Webb,Female,1994-09-25,Berlin,Israel,2022-03-23,39,False,350,11,62.6,12.4,Active,Data Science
+10290,Gilbert,Long,Other,1998-01-09,Los Angeles,USA,2022-08-26,27,True,133,2,62.4,5.1,Active,Data Analyst
+10291,Nichole,Price,Female,1976-03-22,New York,Germany,2022-03-17,7,False,497,15,74.6,11.6,Active,Marketing
+10292,Bonnie,Gibbs,Male,1987-01-16,Jerusalem,Germany,2021-04-08,7,True,95,10,75.2,2.9,Active,Cybersecurity
+10293,Robert,Harris,Other,1985-09-14,,Germany,2020-11-01,29,False,451,11,41.9,8.8,Active,Data Analyst
+10294,William,Landry,Female,1990-08-06,Jerusalem,Germany,2020-10-24,31,False,372,6,66.2,29.8,Active,Data Analyst
+10295,Pamela,Horn,Other,1991-01-09,Delhi,Israel,2023-11-21,20,True,474,3,55.8,29.0,Active,Design
+10296,Philip,Henry,Other,1983-12-03,Los Angeles,USA,2023-09-17,21,False,457,14,70.5,4.1,Active,Cybersecurity
+10297,Clinton,Walter,Male,2002-07-03,Mumbai,USA,2024-07-29,50,False,273,14,81.5,20.8,Suspended,Data Science
+10298,Susan,Pierce,Other,1992-07-31,Los Angeles,India,2020-08-03,9,False,491,14,96.4,16.4,Active,Design
+10299,David,Hull,Other,1990-11-29,Los Angeles,Germany,2021-03-02,36,False,483,5,60.8,21.1,Active,Data Science
